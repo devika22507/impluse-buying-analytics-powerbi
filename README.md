@@ -42,4 +42,4 @@ A custom DAX-based scoring model designed to quantify impulsiveness based on:
 - Behavioral recommendation engine
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard-overview.png)
